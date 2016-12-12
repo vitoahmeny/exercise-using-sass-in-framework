@@ -1,0 +1,9 @@
+@import '../base/helpers';
+
+.container {
+	position: relative;
+}
+
+header {
+	@include align-center;
+}

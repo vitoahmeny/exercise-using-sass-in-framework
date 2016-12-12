@@ -1,0 +1,30 @@
+.container {
+  position: relative; }
+
+header {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+  -moz-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+  transform: translate(-50%); }
+
+button.demo {
+  font-size: 20px;
+  text-decoration: none;
+  text-align: center;
+  border: none;
+  color: white;
+  background: #7ECDD2;
+  height: 40px;
+  line-height: 40px;
+  opacity: 1;
+  padding: 0 20px;
+  -webkit-border-radius: 5%;
+  -moz-border-radius: 5%;
+  -ms-border-radius: 5%;
+  border-radius: 5%; }
+  button.demo:hover {
+    opacity: .7; }
+
+/*# sourceMappingURL=main.css.map */
